@@ -15,23 +15,27 @@ header {
 	box-shadow: 1px 1px 10px 1px #fff;
 	border-bottom: 5px ridge #fff;
 	margin-bottom: 45px;
+    background-color: rgba(0,240,80,1);;
 }
+
 header ul {
 	display: flex;
 }
+
 header ul li {
 	padding: 5px;
 }
+
 header ul li a {
 	transition: 300ms;
 	color: rgb(7, 0, 0);
 	font-size: 40px;
 }
+
 header ul li a:hover {
 	color: rgb(52, 246, 8);
 	text-decoration: underline;
 }
-
 
 body {
     background-color:rgba(0,240,80,1);
@@ -88,6 +92,7 @@ a {
     text-decoration: none;
     color:  #337ab7;
     padding: 0px;
+    transition: 300ms;
 }
 
 .segundo li {
@@ -105,4 +110,19 @@ img {
 
 .terceiro {
     padding: 10px;
+}
+
+footer {
+    box-shadow: 1px 1px 10px 1px #fff;
+    border-top: 5px ridge #fff;
+    margin-top: 45px;
+    padding-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgba(0,240,80,1);
+}
+
+.social {
+    margin-left: 10px;
 }
