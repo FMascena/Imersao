@@ -1,4 +1,5 @@
 # Projeto Imersão Digital
+![Perfis](https://imersao-lemon.vercel.app/imagens/perfis-new.png)
 
 ## Descrição:
 Projeto criado para a primeira atividade do bootcamp da Gama Academy.
