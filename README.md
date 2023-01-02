@@ -3,7 +3,7 @@
 # Descrição:
 Projeto criado para a primeira atividade do bootcamp da Gama Academy.
 Tinha que seguir alguns requisitos montando uma página com um tema escolhido por mim, trazendo 10 sugestões sobre o tema.
-Como numa aula vimos sobre a imersão digital, procurar participar de comunidades e acompanhar pessoas relacionadas a tecnologia nas redes socias,
+Como numa aula vimos sobre a imersão digital, que seria procurar participar de comunidades e acompanhar pessoas relacionadas a tecnologia nas redes socias,
 decidi trazer uma lista de alguns do perfis que mais gosto de acompanhar no Instagram.
 
 # Objetivo:
