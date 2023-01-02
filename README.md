@@ -10,15 +10,17 @@ decidi trazer uma lista de alguns do perfis que mais gosto de acompanhar no Inst
 Auxiliar iniciantes na programação a se sentirem mais confortáveis na nova carreira, acompanhando e aprendendo com expert´s da área.
 
 # Requisitos do projeto:
-Título principal
-Subtítulo
-Parágrafos
-Lista ordenada
-Lista desordenada
-Link que abre na mesma aba
-Link que abre em outra aba
+- Título principal
+- Subtítulo
+- Parágrafos
+- Lista ordenada
+- Lista desordenada
+- Link que abre na mesma aba
+- Link que abre em outra aba
 
 # Ferramentas utilizadas:
+- HTML
+- CSS
 
 # Como acessar:
 Acesse em: https://imersao-lemon.vercel.app/
